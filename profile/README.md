@@ -41,8 +41,7 @@
 Our company: Night Owl Network is a company that provides network solutions to other companies struggling with security and setting up an effective network.
 Our scenerio: Night owl Network has been tasked with updating the core IT infrastructure of recent GlobeX acquisition called CleanPower. CleanPower is a young, innovative startup that specializes in developing renewable energy solutions for homes and businesses. Their team of engineers and energy experts works with clients to design and install solar power systems, wind turbines, and other renewable energy technologies.
 ### 💻PM Tools used 🧰
-- [ ] Link the PM tool your team is using to manage tasks.
-- [ ] For each SOP included in your MSP SOW deliverable, attribute authorship to the team member.
+- [Trello Board] (https://trello.com/c/BoXKfc14/8-powershell-scripts)
 ### 🔎SOPs ✒️
 - [ ] label and link all SOPs.
 ### 🌐Topology and other images🧱
