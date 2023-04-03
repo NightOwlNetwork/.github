@@ -27,7 +27,8 @@
 <a href="https://www.linkedin.com/in/sierra-maldonado/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sierra | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Magicwolfes"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Sierra | GitHub" width="100px"/></a>
 <p align="left">${\color{orangered}Sierra \space Maldonado}$ </p>
-<p align="left">Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here.Type you text here.Type you text here. </p>
+<p align="left">US Navy Veteran, Seabee. ITF+ and Networking+. Six Sigma White belt in HR. Accepted to ASU Pre-Vet Program
+ </p>
 
 
 <a href="https://www.linkedin.com/in/connieuribe/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
