@@ -28,3 +28,13 @@ Sierra Maldonado
 Connie Uribe Chavez
 </br>
 </br>
+
+
+<!--
+
+#### Take a look at some of our prep work and documentation 
+<a href="https://github.com/jESC-Solutions/jESC-Prep-Work-Documentation"><img align="left" src="https://img.shields.io/badge/Repo-Prep Docs-white" alt="Prep Documentation | GitHub Repo" width="148px"/></a> 
+<a href="https://github.com/jESC-Solutions/jESC-SOP"><img align="left" src="https://img.shields.io/badge/Repo-jESC SOP-white" alt="SOPs | GitHub Repo" width="150px"/></a> 
+<a href="https://github.com/jESC-Solutions/jESC-Scripts"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-white" alt="Automation Scripts | GitHub Repo" width="130px"/></a> 
+-->
+
