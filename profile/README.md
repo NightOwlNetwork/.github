@@ -1,16 +1,16 @@
 <div id="header" align="center">
   <img src="https://github.com/NightOwlNetwork/.github/blob/main/Screenshot%202023-03-31%20170811-PhotoRoom.png-PhotoRoom.png"  width="30%" height="30%">
   <h1>
+    👋
   ${\color{orangered}Welcome \space to \space our \space team \space project}$
   </h1>
   <h4>
-    We are Cybersecurity professionals studying at Code Fellows. Night Owl Network is our end of the course presentation where we demonstrate our skills and knowledge we have learned in our Networking class. 
+    We are 🛡️ Cybersecurity professionals 🔥 studying at Code Fellows. Night Owl Network is our end of the course presentation where we demonstrate our skills and knowledge we have learned in our Networking class 🙌. 
     </h4>
 </div>
 
 
-## 🤝 Connect with us:
-
+## 🤝 Connect with us 👨‍💻👩‍💻👩‍💻👩‍💻
 
 <a href="https://www.linkedin.com/in/nickolaus-alderete/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="John | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Nkalderete"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Nicholaus  | GitHub" width="100px"/></a>
@@ -20,7 +20,7 @@
 
 <a href="https://www.linkedin.com/in/genevaknott/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Geneva | LinkedIn" width="100px"/></a>
 <a href="https://github.com/GenevaKnott"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Geneva | GitHub" width="100px"/></a>
-<p align="left" font=arial>${\color{orangered} Geneva \space Knott}$ </p>
+<p align="left" font=arial>${\color{orangered} Geneva \space Knott }$ </p>
 <p align="left">Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here.Type you text here.Type you text here. </p>
 
 
@@ -36,17 +36,17 @@
 <p align="left">Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here.Type you text here.Type you text here. </p>
 
 
-### Description of our project
+### 💾 Description of our project 🚧
 - [ ] description of the project.
-### PM Tools used
+### 💻PM Tools used 🧰
 - [ ] Link the PM tool your team is using to manage tasks.
 - [ ] For each SOP included in your MSP SOW deliverable, attribute authorship to the team member.
-### SOPs
+### 🔎SOPs ✒️
 - [ ] label and link all SOPs.
-### Topology and other images
+### 🌐Topology and other images🧱
 - [ ] topology images and other visuals to the repo and link them on the README.md file.
 - [ ] Include any relevant information required for the operation of the demonstrated system.
-### Slideshow presentation and presentation video
+### 🗣️ Slideshow presentation and presentation video 🎤
 - [ ] export the slide deck as a PDF, commit it to the repo and link it to the README.md file.
 - [ ] When it becomes available, link the recording of your presentation.
 <!--
