@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/nickolaus-alderete/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="John | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Nkalderete"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Nicholaus  | GitHub" width="100px"/></a>
 <p align="left">${\color{orangered}Nickolaus \space Alderete}$ </p>
-<p align="left">Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here. Type you text here.Type you text here.Type you text here. </p>
+<p align="left"> Army combat veteran. Transitioning low voltage electricain, data/ security installs and network room build-outs. CompTIA ITF+ certified.  </p>
 
 
 <a href="https://www.linkedin.com/in/genevaknott/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Geneva | LinkedIn" width="100px"/></a>
