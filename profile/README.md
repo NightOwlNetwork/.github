@@ -84,5 +84,17 @@ When it becomes available, link the recording of your presentation.
 
 
 
+#
+<a><img align="Left" src="https://avatars.githubusercontent.com/u/47328484?s=64&v=4" alt="Connie" width="80px"/></a>
+<p align="Center">Connie Uribe Chavez </p>
+<p align="left"> USMC veteran with programming experience. Computer Science B.A. and CompTIA ITF+ certified. Hobbies include being outdoors and gardening. </p>
+<a href="https://www.linkedin.com/in/connieuribe/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
+<a href="https://github.com/connieuribe"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Connie | GitHub" width="100px"/></a> <br>
+
+#
+
+
+
+
 -->
 
