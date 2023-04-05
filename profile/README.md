@@ -2,7 +2,7 @@
   <img src="https://github.com/NightOwlNetwork/.github/blob/main/Screenshot%202023-03-31%20170811-PhotoRoom.png-PhotoRoom.png"  width="30%" height="30%">
   <h1>
     👋
-  ${\color{orangered}Welcome \space to \space our \space team \space project}$
+  Welcome to our team project
   </h1>
   <h4>
     We are 🛡️ Cybersecurity professionals 🔥 studying at Code Fellows. Night Owl Network is our end of the course presentation where we demonstrate our skills and knowledge we have learned in our Networking class 🙌. 
@@ -10,30 +10,30 @@
 </div>
 
 
-## 🤝 Connect with us 👨‍💻👩‍💻👩‍💻👩‍💻
+## 🤝 Connect with us
 
 <a href="https://www.linkedin.com/in/nickolaus-alderete/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="John | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Nkalderete"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Nicholaus  | GitHub" width="100px"/></a>
-<p align="left">${\color{orangered}Nickolaus \space Alderete}$ </p>
+👨‍💻 **_Nickolaus Alderete_**
 <p align="left"> Army combat veteran. Transitioning low voltage electricain, data/ security installs and network room build-outs. CompTIA ITF+ certified.  </p>
 
 
 <a href="https://www.linkedin.com/in/genevaknott/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Geneva | LinkedIn" width="100px"/></a>
 <a href="https://github.com/GenevaKnott"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Geneva | GitHub" width="100px"/></a>
-<p align="left" font=arial>${\color{orangered} Geneva \space Knott }$ </p>
+👩‍💻 **_Geneva Knott_**
 <p align="left"> My name is Geneva, I go by Gege. I am moving into cyber security and Operations and have a background in law enforcement. I did nine years in law enforcment and left as a violent crimes, Crimminal Invesitgator. I saw an uptik in cyber crimes and wanted to learn more about cyber security and am looking into cyber forensics. I currently hold a Bachelors degree in Criminal Justice and am actively working towards an associates in Cyber Defense. I currently hold CompTia certifications in ITF +, and Network + and am seeking more.  </p>
 
 
 <a href="https://www.linkedin.com/in/sierra-maldonado/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sierra | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Magicwolfes"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Sierra | GitHub" width="100px"/></a>
-<p align="left">${\color{orangered}Sierra \space Maldonado}$ </p>
+👩‍💻 **_Sierra Maldonado_**
 <p align="left">US Navy Veteran, Seabee. ITF+ and Networking+. Six Sigma White belt in HR. Accepted to ASU Pre-Vet Program
  </p>
 
 
 <a href="https://www.linkedin.com/in/connieuribe/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
 <a href="https://github.com/connieuribe"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Connie | GitHub" width="100px"/></a> 
-<p align="left">${\color{orangered}Connie \space Uribe \space Chavez}$ </p>
+👩‍💻 **_Connie Uribe Chavez_**
 <p align="left"> USMC veteran with programming experience. Computer Science B.A. and CompTIA ITF+ certified. Hobbies include being outdoors and gardening. </p>
 
 #
@@ -63,9 +63,9 @@ Our scenerio: Night owl Network has been tasked with updating the core IT infras
 <!--
 
 #### Take a look at some of our prep work and documentation 
-<a href="https://github.com/jESC-Solutions/jESC-Prep-Work-Documentation"><img align="left" src="https://img.shields.io/badge/Repo-Documentations-white" alt="Prep Documentation | GitHub Repo" width="148px"/></a> 
+<a href="https://github.com/NightOwlNetwork/Documentation-#readme"><img align="left" src="https://img.shields.io/badge/Repo-Documentations-white" alt="Prep Documentation | GitHub Repo" width="148px"/></a> 
 <a href="https://github.com/NightOwlNetwork/SOP#readme"><img align="left" src="https://img.shields.io/badge/Repo-jESC SOP-white" alt="SOPs | GitHub Repo" width="148px"/></a> 
-<a href="https://github.com/NightOwlNetwork/Automation-Scripts"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-white" alt="Automation Scripts | GitHub Repo" width="130px"/></a> 
+<a href="https://github.com/NightOwlNetwork/Automation-Scripts#readme"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-white" alt="Automation Scripts | GitHub Repo" width="130px"/></a> 
 
 ```diff
 - text in red
