@@ -77,6 +77,8 @@
       <br>
        <br>
         <br>
+        <br>
+        <br>
  <br>
  
 <a href="https://github.com/NightOwlNetwork/Documentation-/blob/main/VPN%20Topology.png"><img align="left" img src="https://github.com/NightOwlNetwork/Documentation-/blob/main/VPN%20Topology.png" alt="Topology" width="50%" height="50%"/></a>
