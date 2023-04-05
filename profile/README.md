@@ -38,8 +38,9 @@
 
 #
 ### 💾 Description of our project 🚧
-Our company: Night Owl Network is a company that provides network solutions to other companies struggling with security and setting up an effective network.
-Our scenerio: Night owl Network has been tasked with updating the core IT infrastructure of recent GlobeX acquisition called CleanPower. CleanPower is a young, innovative startup that specializes in developing renewable energy solutions for homes and businesses. Their team of engineers and energy experts works with clients to design and install solar power systems, wind turbines, and other renewable energy technologies.
+**Our company:** Night Owl Network is a company that provides network solutions to other companies struggling with security and setting up an effective network.
+
+**Our scenerio:** Night owl Network has been tasked with updating the core IT infrastructure of recent GlobeX acquisition called CleanPower. CleanPower is a young, innovative startup that specializes in developing renewable energy solutions for homes and businesses. Their team of engineers and energy experts works with clients to design and install solar power systems, wind turbines, and other renewable energy technologies.
 ### 💻PM Tools used 🧰
 - [Trello Board](https://trello.com/b/nYiqHZOz/non)
 ### 🔎Repos ✒️
@@ -54,12 +55,29 @@ Our scenerio: Night owl Network has been tasked with updating the core IT infras
 </br>
 </br>
 
-### 🌐Topology and other images🧱
-- [ ] topology images and other visuals to the repo and link them on the README.md file.
-- [ ] Include any relevant information required for the operation of the demonstrated system.
 ### 🗣️ Slideshow presentation and presentation video 🎤
-- [ ] export the slide deck as a PDF, commit it to the repo and link it to the README.md file.
-- [ ] When it becomes available, link the recording of your presentation.
+- Slide show upload - TBD
+- Vide Presentation upload - TBD
+
+
+
+
+### 🌐Topology and other images🧱
+
+  <a href="https://github.com/NightOwlNetwork/Documentation-/blob/main/topologybefore.png"><img align="left" img src="https://github.com/NightOwlNetwork/Documentation-/blob/main/topologybefore.png" alt="Topology" width="45%" height="45%"/></a>
+ </br>
+    <a href="https://github.com/NightOwlNetwork/Documentation-/blob/main/VPN%20Topology.png"><img align="left" img src="https://github.com/NightOwlNetwork/Documentation-/blob/main/VPN%20Topology.png" alt="Topology" width="50%" height="50%"/></a>
+
+  
+ 
+  
+  
+  
+  
+  
+  
+
+
 <!--
 
 #### Take a look at some of our prep work and documentation 
