@@ -47,10 +47,10 @@ Our scenerio: Night owl Network has been tasked with updating the core IT infras
 <a href="https://github.com/NightOwlNetwork/SOP#readme"><img align="left" src="https://img.shields.io/badge/Repo-Standard Operating Procedures-red" alt="SOPs | GitHub Repo" width="300px"/></a>
 </br>
 </br>
-<a href="https://github.com/NightOwlNetwork/Documentation-"><img align="left" src="https://img.shields.io/badge/Repo-Prep Docs-red" alt="Prep Documentation | GitHub Repo" width="145px"/></a> 
+<a href="https://github.com/NightOwlNetwork/Documentation-#readme"><img align="left" src="https://img.shields.io/badge/Repo-Prep Docs-red" alt="Prep Documentation | GitHub Repo" width="145px"/></a> 
 </br>
 </br>
-<a href="https://github.com/NightOwlNetwork/Automation-Scripts"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-red" alt="Automation Scripts | GitHub Repo" width="120px"/></a> 
+<a href="https://github.com/NightOwlNetwork/Automation-Scripts-#readme"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-red" alt="Automation Scripts | GitHub Repo" width="120px"/></a> 
 </br>
 </br>
 
