@@ -42,8 +42,18 @@ Our company: Night Owl Network is a company that provides network solutions to o
 Our scenerio: Night owl Network has been tasked with updating the core IT infrastructure of recent GlobeX acquisition called CleanPower. CleanPower is a young, innovative startup that specializes in developing renewable energy solutions for homes and businesses. Their team of engineers and energy experts works with clients to design and install solar power systems, wind turbines, and other renewable energy technologies.
 ### 💻PM Tools used 🧰
 - [Trello Board](https://trello.com/b/nYiqHZOz/non)
-### 🔎SOPs ✒️
-- [ ] label and link all SOPs.
+### 🔎Repos ✒️
+
+<a href="https://github.com/NightOwlNetwork/SOP#readme"><img align="left" src="https://img.shields.io/badge/Repo-Standard Operating Procedures-red" alt="SOPs | GitHub Repo" width="300px"/></a>
+</br>
+</br>
+<a href="https://github.com/NightOwlNetwork/Documentation-"><img align="left" src="https://img.shields.io/badge/Repo-Prep Docs-red" alt="Prep Documentation | GitHub Repo" width="145px"/></a> 
+</br>
+</br>
+<a href="https://github.com/NightOwlNetwork/Automation-Scripts"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-red" alt="Automation Scripts | GitHub Repo" width="120px"/></a> 
+</br>
+</br>
+
 ### 🌐Topology and other images🧱
 - [ ] topology images and other visuals to the repo and link them on the README.md file.
 - [ ] Include any relevant information required for the operation of the demonstrated system.
@@ -53,9 +63,9 @@ Our scenerio: Night owl Network has been tasked with updating the core IT infras
 <!--
 
 #### Take a look at some of our prep work and documentation 
-<a href="https://github.com/jESC-Solutions/jESC-Prep-Work-Documentation"><img align="left" src="https://img.shields.io/badge/Repo-Prep Docs-white" alt="Prep Documentation | GitHub Repo" width="148px"/></a> 
-<a href="https://github.com/jESC-Solutions/jESC-SOP"><img align="left" src="https://img.shields.io/badge/Repo-jESC SOP-white" alt="SOPs | GitHub Repo" width="150px"/></a> 
-<a href="https://github.com/jESC-Solutions/jESC-Scripts"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-white" alt="Automation Scripts | GitHub Repo" width="130px"/></a> 
+<a href="https://github.com/jESC-Solutions/jESC-Prep-Work-Documentation"><img align="left" src="https://img.shields.io/badge/Repo-Documentations-white" alt="Prep Documentation | GitHub Repo" width="148px"/></a> 
+<a href="https://github.com/NightOwlNetwork/SOP#readme"><img align="left" src="https://img.shields.io/badge/Repo-jESC SOP-white" alt="SOPs | GitHub Repo" width="148px"/></a> 
+<a href="https://github.com/NightOwlNetwork/Automation-Scripts"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-white" alt="Automation Scripts | GitHub Repo" width="130px"/></a> 
 
 ```diff
 - text in red
