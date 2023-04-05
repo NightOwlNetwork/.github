@@ -40,7 +40,7 @@
 ### 💾 Description of our project 🚧
 **Our company:** Night Owl Network is a company that provides network solutions to other companies struggling with security and setting up an effective network.
 
-**Our scenario:** Night owl Network has been tasked with updating the core IT infrastructure of recent GlobeX acquisition called CleanPower. CleanPower is a young, innovative startup that specializes in developing renewable energy solutions for homes and businesses. Their team of engineers and energy experts works with clients to design and install solar power systems, wind turbines, and other renewable energy technologies.
+**Our scenario:** Night Owl Network has been tasked with updating the core IT infrastructure of recent GlobeX acquisition called CleanPower. CleanPower is a young, innovative startup that specializes in developing renewable energy solutions for homes and businesses. Their team of engineers and energy experts works with clients to design and install solar power systems, wind turbines, and other renewable energy technologies.
 ### 💻PM Tools used 🧰
 - [Trello Board](https://trello.com/b/nYiqHZOz/non)
 ### 🔎Repos ✒️
