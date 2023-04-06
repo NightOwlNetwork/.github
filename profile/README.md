@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/genevaknott/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Geneva | LinkedIn" width="100px"/></a>
 <a href="https://github.com/GenevaKnott"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Geneva | GitHub" width="100px"/></a>
 👩‍💻 **_Geneva Knott_**
-<p align="left"> My name is Geneva, I go by Gege. I am moving into cyber security and Operations and have a background in law enforcement. I did nine years in law enforcment and left as a violent crimes, Crimminal Invesitgator. I saw an uptik in cyber crimes and wanted to learn more about cyber security and am looking into cyber forensics. I currently hold a Bachelors degree in Criminal Justice and am actively working towards an associates in Cyber Defense. I currently hold CompTia certifications in ITF +, and Network + and am seeking more.  </p>
+<p align="left"> USMC Veteran, Radio Operator with experince in network configuration. B.S Criminal Justice. AAS in Cyber Defense in progress. CompTia certifications in ITF +, and Network +.  </p>
 
 
 <a href="https://www.linkedin.com/in/sierra-maldonado/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sierra | LinkedIn" width="100px"/></a>
