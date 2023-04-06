@@ -96,7 +96,7 @@
        <br>
 
   
-<a href="https://github.com/NightOwlNetwork/Documentation-/blob/main/Topology%20After.drawio.pdf-Page-1.drawio.png"><img align="left" img src="https://github.com/NightOwlNetwork/Documentation-/blob/main/Topology%20After.drawio.pdf-Page-1.drawio.png" alt="Topology" width="50%" height="50%"/></a>
+<a href="https://github.com/NightOwlNetwork/Documentation-/blob/main/Topology%20After.drawio.pdf-Page-1.drawio.png"><img align="left" img src="https://github.com/NightOwlNetwork/Documentation-/blob/main/Topology%20After.png" width="50%" height="50%"/></a>
 <p align="left"> The final topology product that makes CleanPower more secure. </p>
 
  <br>
