@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/NightOwlNetwork/.github/blob/main/Screenshot%202023-03-31%20170811-PhotoRoom.png-PhotoRoom.png"  width="30%" height="30%">
   <h1>
-    👋
-  Welcome to our team project
+    👋 Welcome to our team project
   </h1>
   <h4>
     We are 🛡️ Cybersecurity professionals 🔥 studying at Code Fellows. Night Owl Network is our end of the course presentation where we demonstrate our skills and knowledge we have learned in our Networking class 🙌. 
@@ -10,38 +9,38 @@
 </div>
 
 
-## 🤝 Connect with us
+## 🤝 Connect with us 👨‍💻👩‍💻👩‍💻👩‍💻
 
 <a href="https://www.linkedin.com/in/nickolaus-alderete/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="John | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Nkalderete"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Nicholaus  | GitHub" width="100px"/></a>
-👨‍💻 **_Nickolaus Alderete_**
-<p align="left"> Army combat veteran. Transitioning low voltage electricain, data/ security installs and network room build-outs. CompTIA ITF+ certified.  </p>
+<p align="left"> ${\color{red}Nickolaus \space Alderete }$ </p> 
+<p align="left"> Army combat veteran. Transitioning low voltage electricain, data/ security installs and network room build-outs. CompTIA ITF+ certified. </p>
 
 
 <a href="https://www.linkedin.com/in/genevaknott/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Geneva | LinkedIn" width="100px"/></a>
 <a href="https://github.com/GenevaKnott"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Geneva | GitHub" width="100px"/></a>
-👩‍💻 **_Geneva Knott_**
+<p align="left"> ${\color{red}Geneva \space Knott}$ </p> 
 <p align="left"> USMC Veteran, Radio Operator with experince in network configuration. B.S Criminal Justice. AAS in Cyber Defense in progress. CompTia certifications in ITF +, and Network +.  </p>
 
 
 <a href="https://www.linkedin.com/in/sierra-maldonado/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sierra | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Magicwolfes"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Sierra | GitHub" width="100px"/></a>
-👩‍💻 **_Sierra Maldonado_**
+<p align="left"> ${\color{red}Sierra \space Maldonado }$ </p> 
 <p align="left">US Navy Veteran, Seabee. ITF+ and Networking+. Six Sigma White belt in HR. Accepted to ASU Pre-Vet Program
  </p>
 
 
 <a href="https://www.linkedin.com/in/connieuribe/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
 <a href="https://github.com/connieuribe"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Connie | GitHub" width="100px"/></a> 
-👩‍💻 **_Connie Uribe Chavez_**
+<p align="left"> ${\color{red}Connie \space Uribe \space Chavez}$ </p> 
 <p align="left"> USMC veteran with programming experience. Computer Science B.A. and CompTIA ITF+ certified. Hobbies include being outdoors and gardening. </p>
 
 #
-### 💾 Description of our project 🚧
+## 💾 Description of our project 🚧
 **Our company:** Night Owl Network is a company that provides network solutions to other companies struggling with security and setting up an effective network.
 
 **Our scenario:** Night Owl Network has been tasked with updating the core IT infrastructure of recent GlobeX acquisition called CleanPower. CleanPower is a young, innovative startup that specializes in developing renewable energy solutions for homes and businesses. Their team of engineers and energy experts works with clients to design and install solar power systems, wind turbines, and other renewable energy technologies.
-### 💻PM Tools used 🧰
+## 💻PM Tools used 🧰
 - [Trello Board](https://trello.com/b/nYiqHZOz/non)
 ### 🔎Repos ✒️
 
@@ -55,14 +54,14 @@
 </br>
 </br>
 
-### 🗣️ Slideshow presentation and presentation video 🎤
+## 🗣️ Slideshow presentation and presentation video 🎤
 - [Slide show upload](https://github.com/NightOwlNetwork/Documentation-/blob/main/Project%202%20(1).pdf)
 - Vide Presentation upload - TBD
 
 
 
 
-### 🌐Topology and other images🧱
+## 🌐Topology and other images🧱
 
 <a href="https://github.com/NightOwlNetwork/Documentation-/blob/main/topologybefore.png"><img align="left" img src="https://github.com/NightOwlNetwork/Documentation-/blob/main/topologybefore.png" alt="Topology" width="50%" height="50%"/></a>
 <p align="left"> The topology the CleanPower was working on before GlobeX </p>
