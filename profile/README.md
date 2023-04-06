@@ -45,7 +45,7 @@
 
 
 
-##🔎Repos ✒️
+## 🔎Repos ✒️
 <a href="https://github.com/NightOwlNetwork/SOP#readme"><img align="left" src="https://img.shields.io/badge/Repo-Standard Operating Procedures-red" alt="SOPs | GitHub Repo" width="300px"/></a>
 </br>
 </br>
