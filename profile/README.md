@@ -82,22 +82,9 @@
         <br>
  <br>
  
-<a href="https://github.com/NightOwlNetwork/Documentation-/blob/main/VPN%20Topology.png"><img align="left" img src="https://github.com/NightOwlNetwork/Documentation-/blob/main/VPN%20Topology.png" alt="Topology" width="50%" height="50%"/></a>
-<p align="left"> The VPN topology that allows CleanPower to communicate with GlobeX through a secure connection. </p>
-
- <br>
-  <br>
-   <br> 
-   <br> 
-   <br>
-    <br>
-     <br> 
-     <br>
-      <br>
-       <br>
 
   
-<a href="https://github.com/NightOwlNetwork/Documentation-/blob/main/Topology%20After.drawio.pdf-Page-1.drawio.png"><img align="left" img src="https://github.com/NightOwlNetwork/Documentation-/blob/main/Topology%20After.png" width="50%" height="50%"/></a>
+<a href="https://github.com/NightOwlNetwork/Documentation-/blob/main/Topology%20After.png"><img align="left" img src="https://github.com/NightOwlNetwork/Documentation-/blob/main/Topology%20After.png" width="50%" height="50%"/></a>
 <p align="left"> The final topology product that makes CleanPower more secure. </p>
 
  <br>
