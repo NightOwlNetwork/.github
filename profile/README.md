@@ -12,7 +12,7 @@
 ## 🤝 Connect with us 👨‍💻👩‍💻👩‍💻👩‍💻
 
 <a href="https://www.linkedin.com/in/nickolaus-alderete/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="John | LinkedIn" width="100px"/></a>
-<a href="https://github.com/Nkalderete"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Nickolaus  | GitHub" width="100px"/></a>
+<a href="https://github.com/Nkalderete"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Nicholaus  | GitHub" width="100px"/></a>
 <p align="left"> ${\color{red}Nickolaus \space Alderete }$ </p> 
 <p align="left"> Army combat veteran. Transitioning low voltage electricain, data/ security installs and network room build-outs. CompTIA ITF+ certified. </p>
 
@@ -40,6 +40,10 @@
 **Our company:** Night Owl Network is a company that provides network solutions to other companies struggling with security and setting up an effective network.
 
 **Our scenario:** Night Owl Network has been tasked with updating the core IT infrastructure of recent GlobeX acquisition called CleanPower. CleanPower is a young, innovative startup that specializes in developing renewable energy solutions for homes and businesses. Their team of engineers and energy experts works with clients to design and install solar power systems, wind turbines, and other renewable energy technologies.
+
+
+
+
 ## 💻PM Tools used 🧰
 - [Trello Board](https://trello.com/b/nYiqHZOz/non)
 
@@ -49,7 +53,7 @@
 <a href="https://github.com/NightOwlNetwork/SOP#readme"><img align="left" src="https://img.shields.io/badge/Repo-Standard Operating Procedures-red" alt="SOPs | GitHub Repo" width="300px"/></a>
 </br>
 </br>
-<a href="https://github.com/NightOwlNetwork/Documentation-#readme"><img align="left" src="https://img.shields.io/badge/Repo-Documentation-red" alt="Documentation | GitHub Repo" width="200px"/></a> 
+<a href="https://github.com/NightOwlNetwork/Documentation-#readme"><img align="left" src="https://img.shields.io/badge/Repo-Documentations-red" alt="Documentation | GitHub Repo" width="200px"/></a> 
 </br>
 </br>
 <a href="https://github.com/NightOwlNetwork/Automation-Scripts#readme"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-red" alt="Automation Scripts | GitHub Repo" width="115px"/></a> 
@@ -119,6 +123,49 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
+
+
+
+
+
+Updated by adding a secure OpenVPN tunnel Site-to-site
+Enables secure communication, provide remote access to resources on a network. 
+Highly scalable and can be easily configured to support large numbers of users and devices.
+
+
+Utilized Captive Portal
+Only authorized users can access a given network
+provides means of authentication for new users.
+Enforces security measures
+Compliance with legal and regulatory requirements 
+
+
+
+Build out new infrastructure and organization which is in line with the rest of GlobeX's holdings.
+Develop a secure solution for data transmission between two networks
+AAA security management
+RADIUS system that raises a captive portal for new network users and authenticates them using AD credentials.
+
+
+
+Objective:
+    - Build a site-to-site VPN tunnel
+    - Alter at least one parameter compared to what was performed in class (e.g. router used, VPN protocol used, introducing a cloud component, etc.)
+    - Demonstrate successful access to a file server, Active Directory, or other network resource on the other end of the tunnel
+- Leadership has concerns about the local network security of the new company, if the acquisition's intranet to going to be joined to GlobeX. You will need to demonstrate implementation of some form of network access control that provides a healthy level of AAA security management.
+  - Objective: Deploy a RADIUS system that raises a captive portal for new network users and authenticates them usina
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ------- GUIDELINES FOR THIS README ------------
