@@ -12,7 +12,7 @@
 ## 🤝 Connect with us 👨‍💻👩‍💻👩‍💻👩‍💻
 
 <a href="https://www.linkedin.com/in/nickolaus-alderete/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="John | LinkedIn" width="100px"/></a>
-<a href="https://github.com/Nkalderete"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Nicholaus  | GitHub" width="100px"/></a>
+<a href="https://github.com/Nkalderete"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Nickolaus  | GitHub" width="100px"/></a>
 <p align="left"> ${\color{red}Nickolaus \space Alderete }$ </p> 
 <p align="left"> Army combat veteran. Transitioning low voltage electricain, data/ security installs and network room build-outs. CompTIA ITF+ certified. </p>
 
@@ -49,7 +49,7 @@
 <a href="https://github.com/NightOwlNetwork/SOP#readme"><img align="left" src="https://img.shields.io/badge/Repo-Standard Operating Procedures-red" alt="SOPs | GitHub Repo" width="300px"/></a>
 </br>
 </br>
-<a href="https://github.com/NightOwlNetwork/Documentation-#readme"><img align="left" src="https://img.shields.io/badge/Repo-Documentations-red" alt="Documentation | GitHub Repo" width="200px"/></a> 
+<a href="https://github.com/NightOwlNetwork/Documentation-#readme"><img align="left" src="https://img.shields.io/badge/Repo-Documentation-red" alt="Documentation | GitHub Repo" width="200px"/></a> 
 </br>
 </br>
 <a href="https://github.com/NightOwlNetwork/Automation-Scripts#readme"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-red" alt="Automation Scripts | GitHub Repo" width="115px"/></a> 
