@@ -42,15 +42,17 @@
 **Our scenario:** Night Owl Network has been tasked with updating the core IT infrastructure of recent GlobeX acquisition called CleanPower. CleanPower is a young, innovative startup that specializes in developing renewable energy solutions for homes and businesses. Their team of engineers and energy experts works with clients to design and install solar power systems, wind turbines, and other renewable energy technologies.
 ## 💻PM Tools used 🧰
 - [Trello Board](https://trello.com/b/nYiqHZOz/non)
-### 🔎Repos ✒️
 
+
+
+##🔎Repos ✒️
 <a href="https://github.com/NightOwlNetwork/SOP#readme"><img align="left" src="https://img.shields.io/badge/Repo-Standard Operating Procedures-red" alt="SOPs | GitHub Repo" width="300px"/></a>
 </br>
 </br>
-<a href="https://github.com/NightOwlNetwork/Documentation-#readme"><img align="left" src="https://img.shields.io/badge/Repo-Docs-red" alt="Documentation | GitHub Repo" width="145px"/></a> 
+<a href="https://github.com/NightOwlNetwork/Documentation-#readme"><img align="left" src="https://img.shields.io/badge/Repo-Documentations-red" alt="Documentation | GitHub Repo" width="200px"/></a> 
 </br>
 </br>
-<a href="https://github.com/NightOwlNetwork/Automation-Scripts#readme"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-red" alt="Automation Scripts | GitHub Repo" width="120px"/></a> 
+<a href="https://github.com/NightOwlNetwork/Automation-Scripts#readme"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-red" alt="Automation Scripts | GitHub Repo" width="115px"/></a> 
 </br>
 </br>
 
