@@ -41,6 +41,11 @@
 
 **Our scenario:** Night Owl Network has been tasked with updating the core IT infrastructure of recent GlobeX acquisition called CleanPower. CleanPower is a young, innovative startup that specializes in developing renewable energy solutions for homes and businesses. Their team of engineers and energy experts works with clients to design and install solar power systems, wind turbines, and other renewable energy technologies.
 
+**Our solution:** Build out new infrastructure and organization which is in line with the rest of GlobeX's holdings. Develop a secure solution for data transmission between two networks by
+  - Updating the network by adding a secure OpenVPN tunnel Site-to-site
+  - Incorporate RADIUS system that raises a captive portal for new network users and authenticates them using AD credentials.
+  - Utilized captive portal to ensure only authorized users can access a given network. Captive portal provides means of authentication for new users and enforces security measures.
+
 
 
 
