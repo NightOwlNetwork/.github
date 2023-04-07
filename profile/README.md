@@ -70,7 +70,7 @@
 ## 🌐Topology and other images🧱
 
 <a href="https://github.com/NightOwlNetwork/Documentation-/blob/main/topologybefore.png"><img align="left" img src="https://github.com/NightOwlNetwork/Documentation-/blob/main/topologybefore.png" alt="Topology" width="50%" height="50%"/></a>
-<p align="left"> The topology the CleanPower was working on before GlobeX </p>
+<p align="left"> CleanPower topology before intergrating with GlobeX </p>
  <br>
   <br>
    <br> 
