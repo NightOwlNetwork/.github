@@ -67,7 +67,7 @@
 
 ## 🗣️ Slideshow presentation and presentation video 🎤
 - [Slide show upload](https://github.com/NightOwlNetwork/Documentation-/blob/main/Project%202%20(1).pdf)
-- Video Presentation Upload - TBD
+- [Video Presentation Upload]( https://zoom.us/rec/share/qiSFyl7360aq1KoH6BSE6CII9CaNjo4et-h73XOPtBcSRfDYzCH39aPeKCYrt5jt.ww_I0Ino4KIhyvx7)
 
 
 
