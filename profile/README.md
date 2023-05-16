@@ -13,26 +13,26 @@
 
 <a href="https://www.linkedin.com/in/nickolaus-alderete/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="John | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Nkalderete"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Nicholaus  | GitHub" width="100px"/></a>
-<p align="left"> ${\color{red}Nickolaus \space Alderete }$ </p> 
+<p align="left"> Nickolaus Alderete </p> 
 <p align="left"> Army combat veteran. Transitioning low voltage electricain, data/ security installs and network room build-outs. CompTIA ITF+ certified. </p>
 
 
 <a href="https://www.linkedin.com/in/genevaknott/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Geneva | LinkedIn" width="100px"/></a>
 <a href="https://github.com/GenevaKnott"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Geneva | GitHub" width="100px"/></a>
-<p align="left"> ${\color{red}Geneva \space Knott}$ </p> 
+<p align="left"> Geneva Knott </p> 
 <p align="left"> USMC Veteran, Radio Operator with experince in network configuration. B.S Criminal Justice. AAS in Cyber Defense in progress. CompTia certifications in ITF +, and Network +.  </p>
 
 
 <a href="https://www.linkedin.com/in/sierra-maldonado/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sierra | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Magicwolfes"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Sierra | GitHub" width="100px"/></a>
-<p align="left"> ${\color{red}Sierra \space Maldonado }$ </p> 
+<p align="left"> Sierra Maldonado </p> 
 <p align="left">US Navy Veteran, Seabee. ITF+ and Networking+. Six Sigma White belt in HR. Accepted to ASU Pre-Vet Program
  </p>
 
 
 <a href="https://www.linkedin.com/in/connieuribe/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
 <a href="https://github.com/connieuribe"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Connie | GitHub" width="100px"/></a> 
-<p align="left"> ${\color{red}Connie \space Uribe \space Chavez}$ </p> 
+<p align="left"> Connie Uribe Chavez </p> 
 <p align="left"> USMC veteran with programming experience. Computer Science B.A. and CompTIA ITF+ certified. Hobbies include being outdoors and gardening. </p>
 
 #
